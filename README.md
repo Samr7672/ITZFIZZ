@@ -6,7 +6,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-> **Live Demo**: [ITZ FIZZ Website](https://itzfizz.com) | **GitHub Repository**: [View Source](https://github.com/username/itz-fizz-landing-page)
+> **Live Demo**: [ITZ FIZZ Website](https://itzfizz.com) | **GitHub Repository**: [View Source](https://samr7672.github.io/ITZFIZZ/)
 
 ---
 
